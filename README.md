@@ -10,7 +10,7 @@ Rules for productive discussion. Find truth while remaining civil and avoid trib
 
 ## 4. "Weighing balance" mentality instead of "My team vs your team"
 
-## 5. Nuanced perspectives are valid and encouraged.
+## 5. Nuanced perspectives are valid and encouraged
 You can agree with one component of an argument, and disagree with another. Agreeing with one component does not imply total agreement of a side. Separate logical arguments should be recognized as separate.
 
 ## 6. All discussion should strictly be about premises and reasoning
