@@ -20,7 +20,7 @@ Views themselves should not be pre-determined or challenged. Views should be a f
 reasoning_function(premise) -> view
 ```
 
-## 7. Attempt to understand the intention behinds someone's statement
+## 7. Attempt to understand the intention behind someone's statement
 Instead of trying to pedantically pick apart specific wording of a statement
 
 ## [Optional] 8. ~~No alcohol~~ Less alcohol the better
