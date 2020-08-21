@@ -34,5 +34,5 @@ find_facts_to_backup_view(view) -> premise
 Rather than pedantically pick apart specific wording of a statement
 
 ## 8. \[Optional] ~~No alcohol~~ Less alcohol the better
-This rule found empirically through... *extensive research*.
+This rule found empirically through *extensive research*.
 
