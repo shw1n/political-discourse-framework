@@ -4,6 +4,11 @@ If either party refuses this possibility, no point in going any further.
 ## 2. Accept that you probably have a bias, and go into conversation actively looking for it
 It exists!
 
+Signs you may have bias:
+- If you find yourself constantly trying to "make one side work" in your head (see #6 about confirmation bias below)
+- If your reason/premise for a view is "Everyone knows" or "It just is" instead of hard fact (see #6)
+- If presented with evidence against an existing view, you refuse to accept this new view as a possibility (this violates #1)
+
 ## 4. "Weighing balance" mentality instead of "My team vs your team"
 This is science, not football.
 
@@ -15,7 +20,7 @@ Again, this is discovery, not competition.
 - Agreeing with one component of a side does not imply total agreement of a side. 
 - Separate logical arguments should be recognized as separate.
 
-## 6. All discussion should strictly be about premises and reasoning
+## 6. All discussion should strictly be about premises (facts) and reasoning
 Views themselves should not be pre-determined or challenged. Views should be a **function** of **premises** and **reasoning**. If a premise changes, or better reasoning is found, your view should update accordingly. E.g: 
 
 ```
