@@ -19,6 +19,6 @@ reasoning_function(premise) -> view
 ## 7. Attempt to understand the intention behind someone's statement
 Instead of trying to pedantically pick apart specific wording of a statement
 
-## 8. ~~No alcohol~~ Less alcohol the better \[Optional\]
+## 8. \[Optional] ~~No alcohol~~ Less alcohol the better
 
 
