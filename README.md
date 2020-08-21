@@ -1,6 +1,6 @@
 # Pre-requisites for Productive Political Discourse
 
-Rules for productive discussion: how to find truth while remaining civil and avoid tribalism / groupthink
+Rules for productive discussion. Find truth while remaining civil and avoid tribalism / groupthink.
 
 ## 1. Go into the conversation realizing either of us can be wrong
 
