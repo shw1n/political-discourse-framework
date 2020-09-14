@@ -1,9 +1,7 @@
-## 1. Go into the conversation realizing either party can be wrong
-If either party refuses this possibility, no point in going any further.
+## 1. Both parties should accept the possibility of being wrong
+If you were wrong, would you want to know? If the answer is no, then no point in discussing.
 
-Good question to ask is: if you were wrong, would you want to know? If the answer is no, then no point in discussing.
-
-## 2. Discussion should strictly be about premises (facts) and reasoning, rather than views
+## 2. Discussion should be about premises (facts) and reasoning, rather than views directly
 Views themselves should not be pre-determined or challenged. Views should be a **function** of **premises** and **reasoning**. If a premise changes, or better reasoning is found, your view should update accordingly. E.g: 
 
 ```
@@ -27,7 +25,7 @@ Signs you may have bias:
 
 ## 4. Nuanced perspectives are valid and encouraged
 
-Aka things are not black and white.
+Things are generally not black and white, there are usually gradations. Avoid the hyper-partisan trap of modern politics.
 
 - You can agree with one component of an argument, and disagree with another. 
 - Agreeing with one component of a side does not imply total agreement of a side. 
