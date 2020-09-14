@@ -1,7 +1,9 @@
-## 1. Go into the conversation realizing either of us can be wrong
+## 1. Go into the conversation realizing either party can be wrong
 If either party refuses this possibility, no point in going any further.
 
-## 2. All discussion should strictly be about premises (facts) and reasoning
+Good question to ask is: if you were wrong, would you want to know? If the answer is no, then no point in discussing.
+
+## 2. Discussion should strictly be about premises (facts) and reasoning, rather than views
 Views themselves should not be pre-determined or challenged. Views should be a **function** of **premises** and **reasoning**. If a premise changes, or better reasoning is found, your view should update accordingly. E.g: 
 
 ```
@@ -17,7 +19,6 @@ find_facts_to_backup_view(view) -> premise
 ```
 
 ## 3. Accept that you probably have a bias, and go into conversation actively looking for it
-It exists!
 
 Signs you may have bias:
 - If you find yourself constantly trying to "make one side work" in your head (see #2 about confirmation bias)
@@ -25,6 +26,9 @@ Signs you may have bias:
 - If presented with evidence against an existing view, you refuse to accept this new view as a possibility (this violates #1)
 
 ## 4. Nuanced perspectives are valid and encouraged
+
+Aka things are not black and white.
+
 - You can agree with one component of an argument, and disagree with another. 
 - Agreeing with one component of a side does not imply total agreement of a side. 
 - Separate logical arguments should be recognized as separate.
@@ -37,7 +41,3 @@ This is science, not football.
 
 ## 7. Being right / wrong doesn't matter, only figuring out the truth
 Again, this is discovery, not competition.
-
-## 8. \[Optional] ~~No alcohol~~ Less alcohol the better
-This rule found empirically through *extensive research*.
-
